@@ -3,4 +3,4 @@ por cuestiones de tiempo (al rededor de 5 horas) no se lograrion implementar tod
 Se utilizaron diferentes Principios SOLID y Recomendaciones de Clean arquitecture,
 se tiene control de errores en background aunque no se alcanza a implementar el feedback para el usuario,
 se utilizan principio de material desing y ux,
-se adjunta el apk en la rama Main
+se adjunta el apk en la rama Main al igual que screenshots de la interfaz provisional que se desarrollo
